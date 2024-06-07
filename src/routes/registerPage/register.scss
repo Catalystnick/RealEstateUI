@@ -1,5 +1,5 @@
 @import "../../styles/responsive.scss";
-.login {
+.register {
   height: 100%;
   display: flex;
 
@@ -17,8 +17,7 @@
 
       input {
         padding: 20px;
-        border: 1px solid gray;
-        border-radius: 5px;
+        bottom: 1px solid gray;
       }
 
       button {
@@ -44,7 +43,6 @@
       span {
         color: rgba(255, 0, 0, 0.591);
       }
-
       a {
         font-size: 14px;
         color: gray;
